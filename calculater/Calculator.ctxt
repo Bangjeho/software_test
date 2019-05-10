@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\r\n\ 4\uCE59\uC5F0\uC0B0\uC744\ \uC785\uB825\uBC1B\uC544\ \uACC4\uC0B0\uD558\uB294\ \uD504\uB85C\uADF8\uB7A8.\r\n\ \r\n\ @author\ (2017315048\ \uCFE0\uB9C8\uC790\uC640\ \uC720\uC774,\ 2017315051\ \uB2E4\uB098\uCE74\ \uBB34\uB124\uC0AC\uD1A0,\ 2017315034\ \uC804\uC138\uC885,\ 2017315018\ \uBC29\uC81C\uD638)\r\n\ @version\ (2019/05/09)\r\n
+comment1.params=
+comment1.target=void\ Calculator()
+comment1.text=\r\n\ initialization\ of\ numbers\r\n
+comment2.params=number1\ number2
+comment2.target=int\ add(int,\ int)
+comment2.text=\r\n\ add\ parameters\ number\r\n
+comment3.params=number1\ number2
+comment3.target=int\ sub(int,\ int)
+comment3.text=\r\n\ sub\ parameters\ number\r\n
+comment4.params=number1\ number2
+comment4.target=int\ mul(int,\ int)
+comment4.text=\r\n\ mul\ parameters\ number\r\n
+comment5.params=number1\ number2
+comment5.target=double\ div(int,\ int)
+comment5.text=\r\n\ div\ parameters\ number\r\n
+numComments=6

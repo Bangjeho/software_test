@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CalculatorTest
+comment0.text=\r\n\ 4\uCE59\uC5F0\uC0B0\uC744\ \uC785\uB825\uBC1B\uC544\ \uACC4\uC0B0\uD558\uB294\ \uD504\uB85C\uADF8\uB7A8.\r\n\ \r\n\ @author\ (2017315048\ \uCFE0\uB9C8\uC790\uC640\ \uC720\uC774,\ 2017315051\ \uB2E4\uB098\uCE74\ \uBB34\uB124\uC0AC\uD1A0,\ 2017315034\ \uC804\uC138\uC885,\ 2017315018\ \uBC29\uC81C\uD638)\ \r\n\ @version\ (2019/05/09)\r\n
+comment1.params=
+comment1.target=CalculatorTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ CalculatorTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ addTest()
+comment5.params=
+comment5.target=void\ subTest()
+comment6.params=
+comment6.target=void\ mulTest()
+comment7.params=
+comment7.target=void\ divTest1()
+comment8.params=
+comment8.target=void\ divTest2()
+numComments=9
